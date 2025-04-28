@@ -1,9 +1,9 @@
-<h1>Hi 👋, I'm Amarjeet Gupta</h1>
+<h1>Hi 👋, I'm Shivam kumar</h1>
 
 "🚀 Aspiring Full Stack Web Developer weaving digital wonders with interactive UIs and a touch of creativity. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
  
 ## 🚀 Quick Overview 🚀
-- 👨‍💻 I'm from Sant Kabir Nagar, Uttar Pradesh.
+- 👨‍💻 I'm from  Badarpur, Delhi.
 - 👨‍💻 Aspiring Full-stack Web Developer
 - 🌐 Web Enthusiast
 - 📚 Constant Learner
@@ -38,7 +38,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<!---  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> --->
 </p>
 
 ### 🛢️ **Databases**
