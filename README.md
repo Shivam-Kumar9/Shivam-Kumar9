@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Shivam kumar</h1>
 
 "🚀 Aspiring Full Stack Web Developer weaving digital wonders with interactive UIs and a touch of creativity. Let's code together and turn ideas into captivating online experiences! 💻✨ #WebDev"
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shivam-Kumar9&label=Profile%20views&color=0e75b6&style=flat" alt="shivam" /> </p>
  
 ## 🚀 Quick Overview 🚀
 - 👨‍💻 I'm from  Badarpur, Delhi.
